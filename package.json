@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "http-status": "^1.6.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3",
+    "validator": "^13.9.0"
+  },
+  "name": "harshitsinghnaps307-me_buildout_xflix_node",
+  "version": "1.0.0",
+  "main": "backend/src/index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.crio.do:COHORT_ME_BUILDOUT_XFLIX_NODE_ENROLL_1641732453619/harshitsinghnaps307-ME_BUILDOUT_XFLIX_NODE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
